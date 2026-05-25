@@ -1,0 +1,8 @@
+Libraries for Market Basket Analysis
+
+pandas
+numpy
+matplotlib
+seaborn
+mlxtend
+colab
