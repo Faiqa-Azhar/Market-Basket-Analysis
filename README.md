@@ -113,21 +113,6 @@ Measures the strength of association between products.
 These results indicate meaningful product associations and successful implementation of the **Apriori Algorithm**.
 
 
-## 📷 Visualizations
-
-### Top Selling Items
-(Add Screenshot Here)
-
-### Support vs Confidence
-(Add Screenshot Here)
-
-### Support vs Lift
-(Add Screenshot Here)
-
-### Association Rules Heatmap
-(Add Screenshot Here)
-
-
 ## 🚀 Applications of Market Basket Analysis
 
 Market Basket Analysis is widely used in:
